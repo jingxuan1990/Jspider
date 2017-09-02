@@ -18,5 +18,5 @@
 
 # Todo List
  1. 核心组件的架构设计(WelUI, Scheduler, Fetcher, Processor)。
- - WebUI
- - dwf 
+ 2. 分布式部署的支持。
+ 3. 支持基于Redis的高效的，海量的url去重。
